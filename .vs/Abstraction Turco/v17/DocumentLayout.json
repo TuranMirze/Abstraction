@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|c:\\users\\hp\\onedrive\\desktop\\abstraction\\abstraction\\abstraction turco\\abstraction turco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|solutionrelative:abstraction turco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|c:\\users\\hp\\onedrive\\desktop\\abstraction\\abstraction\\abstraction turco\\abstraction turco\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|solutionrelative:abstraction turco\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|c:\\users\\hp\\onedrive\\desktop\\abstraction\\abstraction\\abstraction turco\\abstraction turco\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|solutionrelative:abstraction turco\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|c:\\users\\hp\\onedrive\\desktop\\abstraction\\abstraction\\abstraction turco\\abstraction turco\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83834186-34ED-4999-B26A-4D83374B4988}|Abstraction Turco\\Abstraction Turco.csproj|solutionrelative:abstraction turco\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\Group.cs",
+              "RelativeDocumentMoniker": "Abstraction Turco\\Group.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\Group.cs",
+              "RelativeToolTip": "Abstraction Turco\\Group.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:44:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\User.cs",
+              "RelativeDocumentMoniker": "Abstraction Turco\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\User.cs",
+              "RelativeToolTip": "Abstraction Turco\\User.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:38:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\Student.cs",
+              "RelativeDocumentMoniker": "Abstraction Turco\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\Student.cs",
+              "RelativeToolTip": "Abstraction Turco\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:37:43.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction Turco\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Abstraction\\Abstraction\\Abstraction Turco\\Abstraction Turco\\Program.cs",
+              "RelativeToolTip": "Abstraction Turco\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:37:18.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
